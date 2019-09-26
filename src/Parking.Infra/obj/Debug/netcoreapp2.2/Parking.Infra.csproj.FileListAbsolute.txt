@@ -1,0 +1,9 @@
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.csprojAssemblyReference.cache
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.csproj.CoreCompileInputs.cache
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.AssemblyInfoInputs.cache
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.AssemblyInfo.cs
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\bin\Debug\netcoreapp2.2\Parking.Infra.deps.json
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\bin\Debug\netcoreapp2.2\Parking.Infra.dll
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\bin\Debug\netcoreapp2.2\Parking.Infra.pdb
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.dll
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.pdb

@@ -1,0 +1,16 @@
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\bin\Debug\netstandard2.0\Parking.Infra.deps.json
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\bin\Debug\netstandard2.0\Parking.Infra.dll
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\bin\Debug\netstandard2.0\Parking.Infra.pdb
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\bin\Debug\netstandard2.0\Parking.Common.dll
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\bin\Debug\netstandard2.0\Parking.Domain.dll
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\bin\Debug\netstandard2.0\Parking.Dto.dll
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\bin\Debug\netstandard2.0\Parking.Common.pdb
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\bin\Debug\netstandard2.0\Parking.Domain.pdb
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\bin\Debug\netstandard2.0\Parking.Dto.pdb
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netstandard2.0\Parking.Infra.csprojAssemblyReference.cache
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netstandard2.0\Parking.Infra.csproj.CoreCompileInputs.cache
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netstandard2.0\Parking.Infra.AssemblyInfoInputs.cache
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netstandard2.0\Parking.Infra.AssemblyInfo.cs
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netstandard2.0\Parking.Infra.csproj.CopyComplete
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netstandard2.0\Parking.Infra.dll
+C:\TreinamentoDotNet\v2\slnParking\Parking.Infra\obj\Debug\netstandard2.0\Parking.Infra.pdb

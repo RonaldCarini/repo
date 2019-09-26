@@ -1,0 +1,11 @@
+C:\TreinamentoDotNet\v2\slnParking\Parking.Domain\bin\Debug\netcoreapp2.2\Parking.Domain.deps.json
+C:\TreinamentoDotNet\v2\slnParking\Parking.Domain\bin\Debug\netcoreapp2.2\Parking.Domain.runtimeconfig.json
+C:\TreinamentoDotNet\v2\slnParking\Parking.Domain\bin\Debug\netcoreapp2.2\Parking.Domain.runtimeconfig.dev.json
+C:\TreinamentoDotNet\v2\slnParking\Parking.Domain\bin\Debug\netcoreapp2.2\Parking.Domain.dll
+C:\TreinamentoDotNet\v2\slnParking\Parking.Domain\obj\Debug\netcoreapp2.2\Parking.Domain.csprojAssemblyReference.cache
+C:\TreinamentoDotNet\v2\slnParking\Parking.Domain\obj\Debug\netcoreapp2.2\Parking.Domain.csproj.CoreCompileInputs.cache
+C:\TreinamentoDotNet\v2\slnParking\Parking.Domain\obj\Debug\netcoreapp2.2\Parking.Domain.AssemblyInfoInputs.cache
+C:\TreinamentoDotNet\v2\slnParking\Parking.Domain\obj\Debug\netcoreapp2.2\Parking.Domain.AssemblyInfo.cs
+C:\TreinamentoDotNet\v2\slnParking\Parking.Domain\bin\Debug\netcoreapp2.2\Parking.Domain.pdb
+C:\TreinamentoDotNet\v2\slnParking\Parking.Domain\obj\Debug\netcoreapp2.2\Parking.Domain.dll
+C:\TreinamentoDotNet\v2\slnParking\Parking.Domain\obj\Debug\netcoreapp2.2\Parking.Domain.pdb
